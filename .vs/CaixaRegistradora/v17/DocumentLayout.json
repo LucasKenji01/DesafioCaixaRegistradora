@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Kenji\\source\\repos\\CaixaRegistradora\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1872A6E8-9CB5-4B1E-BD3E-3CD92AFE3DC5}|CaixaRegistradora\\CaixaRegistradora.csproj|c:\\users\\kenji\\source\\repos\\caixaregistradora\\caixaregistradora\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1872A6E8-9CB5-4B1E-BD3E-3CD92AFE3DC5}|CaixaRegistradora\\CaixaRegistradora.csproj|solutionrelative:caixaregistradora\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1872A6E8-9CB5-4B1E-BD3E-3CD92AFE3DC5}|CaixaRegistradora\\CaixaRegistradora.csproj|c:\\users\\kenji\\source\\repos\\caixaregistradora\\caixaregistradora\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1872A6E8-9CB5-4B1E-BD3E-3CD92AFE3DC5}|CaixaRegistradora\\CaixaRegistradora.csproj|solutionrelative:caixaregistradora\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Kenji\\source\\repos\\CaixaRegistradora\\CaixaRegistradora\\Program.cs",
+              "RelativeDocumentMoniker": "CaixaRegistradora\\Program.cs",
+              "ToolTip": "C:\\Users\\Kenji\\source\\repos\\CaixaRegistradora\\CaixaRegistradora\\Program.cs",
+              "RelativeToolTip": "CaixaRegistradora\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACcAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T22:57:51.79Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Produto.cs",
+              "DocumentMoniker": "C:\\Users\\Kenji\\source\\repos\\CaixaRegistradora\\CaixaRegistradora\\Produto.cs",
+              "RelativeDocumentMoniker": "CaixaRegistradora\\Produto.cs",
+              "ToolTip": "C:\\Users\\Kenji\\source\\repos\\CaixaRegistradora\\CaixaRegistradora\\Produto.cs",
+              "RelativeToolTip": "CaixaRegistradora\\Produto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T23:14:53.382Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

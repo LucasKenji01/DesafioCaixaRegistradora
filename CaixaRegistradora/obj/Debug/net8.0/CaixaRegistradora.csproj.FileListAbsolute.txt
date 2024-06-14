@@ -1,0 +1,14 @@
+C:\Users\Kenji\source\repos\CaixaRegistradora\CaixaRegistradora\bin\Debug\net8.0\CaixaRegistradora.exe
+C:\Users\Kenji\source\repos\CaixaRegistradora\CaixaRegistradora\bin\Debug\net8.0\CaixaRegistradora.deps.json
+C:\Users\Kenji\source\repos\CaixaRegistradora\CaixaRegistradora\bin\Debug\net8.0\CaixaRegistradora.runtimeconfig.json
+C:\Users\Kenji\source\repos\CaixaRegistradora\CaixaRegistradora\bin\Debug\net8.0\CaixaRegistradora.dll
+C:\Users\Kenji\source\repos\CaixaRegistradora\CaixaRegistradora\bin\Debug\net8.0\CaixaRegistradora.pdb
+C:\Users\Kenji\source\repos\CaixaRegistradora\CaixaRegistradora\obj\Debug\net8.0\CaixaRegistradora.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kenji\source\repos\CaixaRegistradora\CaixaRegistradora\obj\Debug\net8.0\CaixaRegistradora.AssemblyInfoInputs.cache
+C:\Users\Kenji\source\repos\CaixaRegistradora\CaixaRegistradora\obj\Debug\net8.0\CaixaRegistradora.AssemblyInfo.cs
+C:\Users\Kenji\source\repos\CaixaRegistradora\CaixaRegistradora\obj\Debug\net8.0\CaixaRegistradora.csproj.CoreCompileInputs.cache
+C:\Users\Kenji\source\repos\CaixaRegistradora\CaixaRegistradora\obj\Debug\net8.0\CaixaRegistradora.dll
+C:\Users\Kenji\source\repos\CaixaRegistradora\CaixaRegistradora\obj\Debug\net8.0\refint\CaixaRegistradora.dll
+C:\Users\Kenji\source\repos\CaixaRegistradora\CaixaRegistradora\obj\Debug\net8.0\CaixaRegistradora.pdb
+C:\Users\Kenji\source\repos\CaixaRegistradora\CaixaRegistradora\obj\Debug\net8.0\CaixaRegistradora.genruntimeconfig.cache
+C:\Users\Kenji\source\repos\CaixaRegistradora\CaixaRegistradora\obj\Debug\net8.0\ref\CaixaRegistradora.dll
